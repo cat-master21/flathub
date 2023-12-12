@@ -1,0 +1,6 @@
+build
+builddir
+export
+squashfs-root
+.flatpak-builder
+*.snap
